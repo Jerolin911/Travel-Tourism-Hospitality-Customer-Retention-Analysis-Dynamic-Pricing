@@ -1,4 +1,5 @@
 Travel, Tourism & Hospitality – Customer Retention and Dynamic Pricing Analysis
+
 Project Overview
 This project focuses on solving two major problems in the hospitality industry:
 
@@ -100,4 +101,4 @@ Setup Instructions
 Step 1: Clone the Repository
 
 Bash
-git clone https://github.com/Jerolin911/Travel-Tourism-Hospitality-Customer-Retention-Analys
+git clone https://github.com/Jerolin911/Travel-Tourism-Hospitality-Customer-Retention-Analysis-Dynamic-Pricing
